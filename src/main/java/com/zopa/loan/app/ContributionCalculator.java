@@ -79,4 +79,5 @@ public interface ContributionCalculator {
 			return Optional.empty();
 		}
 	};
+	
 }
